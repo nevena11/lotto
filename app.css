@@ -1,0 +1,22 @@
+#stranica{
+	width: 1200px;
+}
+
+.kolona{
+	width: 10%;	
+	float:left;
+}
+.dugme{
+	color:red;
+	background-color:white;
+	border: 1px solid red;
+	float:left;
+	width:31%;
+	margin:1px;
+}
+.num {
+	width: 98%;
+	background-color: red;
+	color:white;
+	text-align: center;
+}
